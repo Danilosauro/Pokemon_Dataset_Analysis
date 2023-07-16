@@ -18,4 +18,4 @@ Com o objetivo supracitado, dividimos o nosso código em 3 etapas principais, se
 Todas as seções acima estão listadas no corpo do código sob a forma de comentários embutidos. 
 
 
-###Também construímos um dashboard, [disponível em:](https://lookerstudio.google.com/reporting/1be4348a-4ab1-40b4-b660-431747beb420/page/b8CXD)
+###Também construímos um dashboard, [disponível aqui:](https://lookerstudio.google.com/reporting/1be4348a-4ab1-40b4-b660-431747beb420/page/b8CXD)
