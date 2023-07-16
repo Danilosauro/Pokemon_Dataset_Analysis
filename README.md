@@ -6,13 +6,13 @@ O objetivo principal da análise do conjunto de dados sobre informações de pok
 
 Com o objetivo supracitado, dividimos o nosso código em 3 etapas principais, sendo estas: 
 
-###Análise descrtiva e ETL  
+### Análise descrtiva e ETL  
     Procedimentos de obtenção de dados de estatística descritiva e tratamento de dados.
 
-###Data Science e Analytics 
+### Data Science e Analytics 
     Testes de regressão entre o peso e altura dos pokemons diante dos seus atributos de luta (ataque, defesa, velocidade e pontos de vida)
 
-###Supervised Machine Learning - Árvore de decisão.
+### Supervised Machine Learning - Árvore de decisão.
     Algoritmo aplicado para avaliar a probabilidade de determinado pokemon ser lendário, de acordo com os seus critérios de ataque, defesa,          velocidade e pontos de vida.
 
 Todas as seções acima estão listadas no corpo do código sob a forma de comentários embutidos. 
