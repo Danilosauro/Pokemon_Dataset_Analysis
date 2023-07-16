@@ -8,6 +8,7 @@ Com o objetivo supracitado, dividimos o nosso código em 3 etapas principais, se
 
 *Análise descrtiva e ETL  
 *Data Science e Analytics
+
 *Supervised Machine Learning - Árvore de decisão. 
 
 Todas as seções acima estão listadas no corpo do código sob a forma de comentários embutidos. 
