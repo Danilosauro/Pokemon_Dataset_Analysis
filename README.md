@@ -7,7 +7,7 @@ O objetivo principal da análise do conjunto de dados sobre informações de pok
 Com o objetivo supracitado, dividimos o nosso código em 3 etapas principais, sendo estas: 
 
 *Análise descrtiva e ETL  
-*Data Science e Analytics 
+*Data Science e Analytics
 *Supervised Machine Learning - Árvore de decisão. 
 
 Todas as seções acima estão listadas no corpo do código sob a forma de comentários embutidos. 
